@@ -1,0 +1,16 @@
+{"time":"2026-07-21T10:40:07.933877802Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2026-07-21T10:40:07.933972143Z","level":"INFO","msg":"created symlink","path":"/gpfs0/tamyr/users/beyoav/mri_final_project/results/logs/wandb/run-20260721_104007-mcxcm29v/logs/debug-core.log"}
+{"time":"2026-07-21T10:40:08.07069936Z","level":"INFO","msg":"created new stream","id":"mcxcm29v"}
+{"time":"2026-07-21T10:40:08.07075663Z","level":"INFO","msg":"stream: started","id":"mcxcm29v"}
+{"time":"2026-07-21T10:40:08.07080217Z","level":"INFO","msg":"writer: Do: started","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T10:40:08.07083665Z","level":"INFO","msg":"handler: started","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T10:40:08.070853231Z","level":"INFO","msg":"sender: started","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T10:40:09.043049995Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-21T12:07:09.775592828Z","level":"INFO","msg":"stream: closing","id":"mcxcm29v"}
+{"time":"2026-07-21T12:07:09.79757268Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-21T12:07:09.856101054Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-21T12:07:10.987581092Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-07-21T12:07:11.675310284Z","level":"INFO","msg":"handler: closed","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T12:07:11.675393274Z","level":"INFO","msg":"writer: Close: closed","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T12:07:11.675402374Z","level":"INFO","msg":"sender: closed","stream_id":"mcxcm29v"}
+{"time":"2026-07-21T12:07:11.679561018Z","level":"INFO","msg":"stream: closed","id":"mcxcm29v"}
