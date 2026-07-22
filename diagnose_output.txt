@@ -1,0 +1,17 @@
+
+=== Checking CSVs for missing Ages ===
+student_train_metadata.csv: 172 missing ages
+student_val_metadata.csv: 33 missing ages
+student_test_metadata.csv: 9 missing ages
+
+=== Simulating Dataset loading ===
+Total train images: 4233
+Sampled 100 images: 0 have NaNs, 0 are completely zero
+Max intensity across samples: 1.0000, Min of maxes: 1.0000
+
+=== Checking Model Forward & Backward Pass ===
+Input x stats: max=1.0000, min=0.0000, isnan=False
+Input y: tensor([19., 13., 19., 25.])
+Logits isnan: False
+Loss: 3.2365128993988037
+No NaN gradients in the first batch.
